@@ -23,6 +23,7 @@ export class TransformInterceptor<T>
           message: data.message,
           sucess: data.sucess,
           result: data.result,
+          error: data.error
         };
         return response;
       })
