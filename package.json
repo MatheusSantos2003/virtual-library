@@ -20,17 +20,17 @@
     "@angular/language-service": "~16.1.0",
     "@nestjs/schematics": "^10.0.1",
     "@nestjs/testing": "^10.0.2",
-    "@nx/angular": "^16.6.0",
+    "@nx/angular": "16.6.0",
     "@nx/cypress": "16.6.0",
     "@nx/eslint-plugin": "16.6.0",
     "@nx/jest": "16.6.0",
     "@nx/js": "16.6.0",
     "@nx/linter": "16.6.0",
-    "@nx/nest": "^16.6.0",
+    "@nx/nest": "16.6.0",
     "@nx/node": "16.6.0",
     "@nx/web": "16.6.0",
     "@nx/webpack": "16.6.0",
-    "@nx/workspace": "16.5.5",
+    "@nx/workspace": "16.6.0",
     "@schematics/angular": "~16.1.0",
     "@types/bcrypt": "^5.0.0",
     "@types/jest": "^29.4.0",
@@ -45,8 +45,8 @@
     "jest-environment-jsdom": "^29.4.1",
     "jest-environment-node": "^29.4.1",
     "jest-preset-angular": "~13.1.0",
-    "nx": "16.5.5",
-    "nx-cloud": "latest",
+    "nx": "16.6.0",
+    "nx-cloud": "16.2.0",
     "prettier": "^2.6.2",
     "ts-jest": "^29.1.0",
     "ts-node": "10.9.1",
@@ -76,3 +76,4 @@
     "zone.js": "~0.13.0"
   }
 }
+
