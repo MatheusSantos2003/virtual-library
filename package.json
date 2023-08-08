@@ -5,6 +5,8 @@
   "scripts": {
     "test:f": "nx test frontend",
     "test:b": "nx test backend",
+    "frontend:dev:docker" : "npx nx serve frontend --host=0.0.0.0",
+    "backend:dev:docker" : "npx nx serve backend --host=0.0.0.0",
     "start:debug": "nest start --debug --watch"
   },
   "private": true,
